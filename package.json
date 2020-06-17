@@ -1,0 +1,34 @@
+{
+  "name": "opal quick survey app",
+  "version": "0.1.0",
+  "description": "opal quick microfinance survey of its services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesnganga/survey.git"
+  },
+  "keywords": [
+    "survey",
+    "surveyjs",
+    "service",
+    "nodejs",
+    "survey-creator",
+    "survey-maker",
+    "form-builder"
+  ],
+  "author": "SurveyJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesnganga/surveyjs/issues"
+  },
+  "homepage": "https://github.com/jamesnganga/survey#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-session": "^1.17.1",
+    "pg-promise": "^7.5.4"
+  }
+}
